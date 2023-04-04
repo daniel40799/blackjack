@@ -1,4 +1,4 @@
-# coaeb4264898bcb4ebb96729f
+# Scrimba Blackjack Project
 
 Quick start:
 
